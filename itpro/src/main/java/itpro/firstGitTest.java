@@ -5,6 +5,5 @@ public class firstGitTest {
 		System.out.println("new Project 테스트");
 		
 		System.out.println("브랜치 테스트");
-		System.out.println("브랜치 테스트");
 	}
 }
